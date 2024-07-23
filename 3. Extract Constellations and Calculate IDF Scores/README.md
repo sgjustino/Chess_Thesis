@@ -4,4 +4,6 @@
 
 ![alt text](<distribution of constellations.png>)
 
+![alt text](<IDF Distribution.png>)
+
 # Environment: Kaggle Notebooks (1 instances of 30gb memory ram each)
