@@ -6,4 +6,4 @@
 * In step 3, we calculate the CP_Change between the frist and last ply of the constellation. We then calculate the SDdiff - the standard deviation of the difference (SDdiff) in centipawn scores between the first and last ply of the constellation. These give us the 2 variables for difficulty measure.
 * In step 4, we use Stockfish (20 depths, multipv=5) to compute the centipawn score of the 1st reaction move to the constellation.
 
-# Environment: Python Scripts on windows with Stockfish Engine 16.0
+# Environment: Python Scripts on Windows with Python 3.11.4 and Stockfish Engine 16.0

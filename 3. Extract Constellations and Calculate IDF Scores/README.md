@@ -6,4 +6,4 @@
 
 ![alt text](<IDF Distribution.png>)
 
-# Environment: Kaggle Notebooks (1 instances of 30gb memory ram each)
+# Environment: Kaggle Notebooks (Python 3.10.13, 1 instances of 30gb memory ram each)

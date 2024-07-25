@@ -15,4 +15,4 @@
 
 ![alt text](<MLR Model Figure.png>)
 
-# Environment: Kaggle Notebooks (1 instances of 30gb memory ram)
+# Environment: Kaggle Notebooks (Python 3.10.13, 1 instances of 30gb memory ram)

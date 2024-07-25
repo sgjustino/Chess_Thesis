@@ -8,4 +8,4 @@
 
 ![alt text](<chessbase elo rating distribution.png>)
 
-# Environment: Kaggle Notebooks (7 instances of 30gb memory ram each)
+# Environment: Kaggle Notebooks (Python 3.10.13, 7 instances of 30gb memory ram each)
